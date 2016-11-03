@@ -1,4 +1,5 @@
 # Google Cloud Demos
 Repository for the code from the Google Cloud Platform YouTube Tutorial Series
 
-1. [Hello World, Go](https://github.com/ChrisParsonsDev/googleclouddemos/helloworldgo)
+1. [Hello World, Go](https://github.com/ChrisParsonsDev/googleclouddemos/helloworldgo) - [YouTube]()
+1. [Hello World, Node](https://github.com/ChrisParsonsDev/googleclouddemos/helloworldgo) - [YouTube]()
