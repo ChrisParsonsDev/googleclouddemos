@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def homepage():
-    return current_app.send_static_file('index.html')
+    return app.send_static_file('index.html')
 
 
 if __name__ == '__main__':
