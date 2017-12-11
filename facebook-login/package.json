@@ -1,0 +1,15 @@
+{
+  "name": "facebook-auth",
+  "version": "1.0.0",
+  "description": "GCP tutorial, facebook auth",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "deploy": "gcloud app deploy"
+  },
+  "author": "Chris Parsons",
+  "license": "GNU",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
