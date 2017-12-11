@@ -8,7 +8,8 @@ Repository for the code from the Google Cloud Platform YouTube Tutorial Series
 ## Node
 
 - [Hello World, Node](https://github.com/ChrisParsonsDev/googleclouddemos/tree/master/helloworld-node) - [YouTube](https://www.youtube.com/watch?v=n4svrNcAkJg)
-- [HTML, Node](https://github.com/ChrisParsonsDev/gcptutorials/tree/master/servinghtml) [(YouTube)](https://youtu.be/xflLs-bODAw)
+- [HTML, Node](https://github.com/ChrisParsonsDev/gcptutorials/tree/master/html-node) - [YouTube](https://youtu.be/xflLs-bODAw)
+
 
 ## Python 
 - [Hello World, Python](https://github.com/ChrisParsonsDev/googleclouddemos/tree/master/helloworld-python) - [YouTube](https://www.youtube.com/watch?v=o8XxAWZwnOg)
