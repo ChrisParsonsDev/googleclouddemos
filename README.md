@@ -15,6 +15,6 @@ Repository for the code from the Google Cloud Platform YouTube Tutorial Series
 - [Hello World, Python](https://github.com/ChrisParsonsDev/googleclouddemos/tree/master/helloworld-python) - [YouTube](https://www.youtube.com/watch?v=o8XxAWZwnOg)
 - [HTML, Python](https://github.com/ChrisParsonsDev/googleclouddemos/tree/master/html-python) - [YouTube](https://youtu.be/bTYbBqH_kKU)
 
-### Templates 
+## Templates 
 
 - [Facebook Login](https://github.com/ChrisParsonsDev/googleclouddemos/tree/master/facebook-login) - [YouTube](https://www.youtube.com/watch?v=3x5-BZybPO0)
